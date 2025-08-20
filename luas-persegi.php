@@ -6,7 +6,7 @@
 // Fungsi rumus matematika
 function luas_persegi($sisi) {
     return $sisi * $sisi;
-}
+}  
 
 function luas_segitiga($alas, $tinggi) {
     return 0.5 * $alas * $tinggi;
